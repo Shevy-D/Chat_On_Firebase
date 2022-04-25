@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030195980397",
+    "firebase_url": "https://chat-on-firebase-dfe0f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-on-firebase-dfe0f",
+    "storage_bucket": "chat-on-firebase-dfe0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030195980397:android:190d2dfb422c73dfbfb764",
+        "android_client_info": {
+          "package_name": "com.shevy.chatonfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030195980397-e6i5sl8jqhsr5rtloj6ceed6pvsuje1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5k-g11khd3-hEXEBVpwG5tWeoj59-Qtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030195980397-e6i5sl8jqhsr5rtloj6ceed6pvsuje1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

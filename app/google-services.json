@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1030195980397-c4bj3lrd3f7i4emc6snhkaieisojg03a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shevy.chatonfirebase",
+            "certificate_hash": "81d094266421d1eaef17d1bf06f8f6d82f4788b5"
+          }
+        },
+        {
           "client_id": "1030195980397-e6i5sl8jqhsr5rtloj6ceed6pvsuje1f.apps.googleusercontent.com",
           "client_type": 3
         }

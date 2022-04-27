@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
             runOnUiThread {
                 ab?.setDisplayHomeAsUpEnabled(true)
                 ab?.setHomeAsUpIndicator(dIcon)
-                ab?.title = auth.currentUser ?.displayName
+                ab?.title = auth.currentUser?.displayName
             }
         }.start()
     }
